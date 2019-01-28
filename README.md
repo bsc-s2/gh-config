@@ -5,7 +5,7 @@ Shared github-related config for repository in this organization. See: https://g
 
 To add config to a repo in this organization, add file `.github/settings.yml`:
 
-```
+```yaml
 # inherit configs already defined in this common repo.
 _extends: gh-config
 
